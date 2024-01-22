@@ -1,0 +1,8 @@
+C:\Users\Irishka\Desktop\csv\AutoCAD\bin\Debug\AutoCAD.dll
+C:\Users\Irishka\Desktop\csv\AutoCAD\bin\Debug\AutoCAD.pdb
+C:\Users\Irishka\Desktop\csv\AutoCAD\obj\Debug\AutoCAD.csproj.AssemblyReference.cache
+C:\Users\Irishka\Desktop\csv\AutoCAD\obj\Debug\AutoCAD.csproj.GenerateResource.cache
+C:\Users\Irishka\Desktop\csv\AutoCAD\obj\Debug\AutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\Irishka\Desktop\csv\AutoCAD\obj\Debug\AutoCAD.dll
+C:\Users\Irishka\Desktop\csv\AutoCAD\obj\Debug\AutoCAD.pdb
+C:\Users\Irishka\Desktop\csv\AutoCAD\obj\Debug\CSVReaderCommands.resources
